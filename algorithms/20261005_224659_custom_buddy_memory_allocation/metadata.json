@@ -1,0 +1,13 @@
+{
+  "topic": "Custom Buddy Memory Allocation System",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-05T22:46:59.147132+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}
