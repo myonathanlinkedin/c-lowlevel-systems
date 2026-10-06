@@ -1,6 +1,6 @@
 # Lock-Free Concurrent Ring Buffer Data Structure
 
-A clean, dependency-free **C** implementation of **Lock-Free Concurrent Ring Buffer Data Structure**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **C** reference implementation of **Lock-Free Concurrent Ring Buffer Data Structure**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ---
 
@@ -9,16 +9,16 @@ A clean, dependency-free **C** implementation of **Lock-Free Concurrent Ring Buf
 This module organizes `Lock-Free Concurrent Ring Buffer Data Structure` into an isolated, self-contained unit:
 * **Domain Focus**: `Low-Latency Systems & Memory Layout`
 * **Primary Primitives**: `Contiguous Memory Buffer & Ring Pointers`
-* **Memory Strategy**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Correctness Model**: State consistency is verified after every mutation through formal invariant validation.
+* **Memory Strategy**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Correctness Model**: State consistency is verified after mutations through assertion test coverage.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(1)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N) bounded$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(1)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N) bounded` | Strict bounds without unconstrained heap growth |
 
 ---
 

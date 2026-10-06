@@ -1,6 +1,6 @@
 # Heap vs Stack Memory in C
 
-A clean, dependency-free **C** implementation of **Heap vs Stack Memory in C**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **C** reference implementation of **Heap vs Stack Memory in C**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ---
 
@@ -9,16 +9,16 @@ A clean, dependency-free **C** implementation of **Heap vs Stack Memory in C**, 
 This module organizes `Heap vs Stack Memory in C` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Correctness Model**: State consistency is verified after every mutation through formal invariant validation.
+* **Memory Strategy**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Correctness Model**: State consistency is verified after mutations through assertion test coverage.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ gcc -O3 main.c -o runner && ./runner
 
 ---
 
-<sub>Crafted with modern C standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard C reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

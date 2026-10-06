@@ -1,18 +1,18 @@
 # Custom Buddy Memory Allocation System in C
 
-A clean, dependency-free **C** implementation of **Custom Buddy Memory Allocation System**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **C** reference implementation of **Custom Buddy Memory Allocation System**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ## Implementation Details
 
 * **Category**: `Algorithmic Engineering`
 * **Data Structure Foundation**: `Standard Memory Primitives`
-* **Allocation Pattern**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Invariant Integrity**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Allocation Pattern**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Invariant Integrity**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ## Performance Characteristics
 
-* **Time**: `$O(N)$` average, with `$O(1)$` best-case response under ideal conditions.
-* **Space**: `$O(N)$` memory usage.
+* **Time**: `O(N)` average, with `O(1)` best-case response under ideal conditions.
+* **Space**: `O(N)` memory usage.
 
 ## Test Harness
 

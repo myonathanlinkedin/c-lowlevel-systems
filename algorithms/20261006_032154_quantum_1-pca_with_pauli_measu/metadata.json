@@ -1,5 +1,5 @@
 {
-  "topic": "Quantum 1-PCA with Pauli Measurements in Nearly Linear Time",
+  "topic": "Principal Component Analysis with Linear-Time Matrix Decompositions",
   "language": "C",
   "extension": ".c",
   "category": "c",

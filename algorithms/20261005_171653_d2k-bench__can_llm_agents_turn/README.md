@@ -1,12 +1,12 @@
 # D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?
 
-A clean, dependency-free **C** implementation of **D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **C** reference implementation of **D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ### Core Highlights
 * **Language & Standard**: Modern `C` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Concurrency & Safety**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Runtime Overhead**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Concurrency & Safety**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ---
 
@@ -14,9 +14,9 @@ A clean, dependency-free **C** implementation of **D2K-Bench: Can LLM Agents Tur
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ gcc -O3 main.c -o runner && ./runner
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

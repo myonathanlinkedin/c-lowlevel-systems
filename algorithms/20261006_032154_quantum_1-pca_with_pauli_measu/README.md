@@ -1,28 +1,35 @@
-# Quantum 1-PCA with Pauli Measurements in Nearly Linear Time
+# Principal Component Analysis with Linear-Time Matrix Decompositions
 
-Modern **C** reference architecture for **Quantum 1-PCA with Pauli Measurements in Nearly Linear Time**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
-
-### Core Highlights
-* **Language & Standard**: Modern `C` standard library conventions.
-* **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Concurrency & Safety**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+Self-contained **Principal Component Analysis with Linear-Time Matrix Decompositions** algorithmic primitive written in idiomatic **C**. Built from scratch using standard library constructs with zero external dependencies.
 
 ---
 
-### Complexity Analysis
+## 🏛️ Architecture & Design Decisions
 
-| Dimension | Bound |
-| :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+This module organizes `Principal Component Analysis with Linear-Time Matrix Decompositions` into an isolated, self-contained unit:
+* **Domain Focus**: `Computational Mathematics & Transformation`
+* **Primary Primitives**: `Lookup Tables & Bitwise Bitvectors`
+* **Memory Strategy**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Correctness Model**: State consistency is verified after mutations through assertion test coverage.
+
+### Asymptotic Complexity
+
+| Metric | Bound | Characteristics |
+| :--- | :---: | :--- |
+| **Best Case Time** | `O(N log N)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N log N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
-### Test Suite Execution
+## 🧪 Verification Suite
 
-Self-contained verification drivers are embedded directly in `main.c` to validate happy paths, boundary inputs, and invariant preservation.
+The accompanying `main.c` driver executes self-contained verification tests:
+1. **Nominal Flow**: Validates baseline correctness under typical real-world inputs.
+2. **Boundary Conditions**: Exercises extreme edge cases (empty inputs, singletons, capacity limits).
+3. **Invariant Preservation**: Validates internal state consistency throughout mutation lifecycles.
+
+### Running Locally
 
 ```bash
 gcc -O3 main.c -o runner && ./runner
@@ -30,4 +37,4 @@ gcc -O3 main.c -o runner && ./runner
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

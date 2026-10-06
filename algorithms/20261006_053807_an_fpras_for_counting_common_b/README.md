@@ -1,6 +1,6 @@
 # An FPRAS for Counting Common Bases of Two Matroids
 
-Modern **C** reference architecture for **An FPRAS for Counting Common Bases of Two Matroids**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **C** implementation for **An FPRAS for Counting Common Bases of Two Matroids**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ---
 
@@ -9,16 +9,16 @@ Modern **C** reference architecture for **An FPRAS for Counting Common Bases of 
 This module organizes `An FPRAS for Counting Common Bases of Two Matroids` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Correctness Model**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+* **Memory Strategy**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Correctness Model**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ gcc -O3 main.c -o runner && ./runner
 
 ---
 
-<sub>Crafted with modern C standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard C reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

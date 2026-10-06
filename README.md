@@ -22,7 +22,7 @@
 | 7 | **D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_171653_d2k-bench__can_llm_agents_turn/core.c) |
 | 8 | **Custom Buddy Memory Allocation System** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_224659_custom_buddy_memory_allocation/engine.c) |
 | 9 | **Count-Min Sketch Heavy Hitters Frequency Estimator** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_001716_count-min_sketch_heavy_hitters/engine.c) |
-| 10 | **Quantum 1-PCA with Pauli Measurements in Nearly Linear Time** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_032154_quantum_1-pca_with_pauli_measu/engine.c) |
+| 10 | **Principal Component Analysis with Linear-Time Matrix Decompositions** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_032154_quantum_1-pca_with_pauli_measu/engine.c) |
 | 11 | **Pavise Game - Open-source Windows game resource manager. Suppresses background processes** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_044921_pavise_game_-_open-source_wind/core.c) |
 | 12 | **An FPRAS for Counting Common Bases of Two Matroids** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_053807_an_fpras_for_counting_common_b/engine.c) |
 | 13 | **Heap vs Stack Memory in C** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_054837_heap_vs_stack_memory_in_c/core.c) |
@@ -55,4 +55,4 @@ gcc -std=c11 main.c -O2 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 09:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 10:44 UTC*</sub>
