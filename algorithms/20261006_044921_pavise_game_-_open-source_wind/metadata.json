@@ -1,0 +1,12 @@
+{
+  "topic": "Pavise Game - Open-source Windows game resource manager. Suppresses background processes",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-06T04:49:21.134576+00:00",
+  "source_file": "main.c",
+  "files": [
+    "core.c",
+    "main.c"
+  ]
+}
