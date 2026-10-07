@@ -1,0 +1,14 @@
+{
+  "topic": "Baekjoon - (Baekjoon Online Judge)",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-07T13:44:34.351226+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "engine.c",
+    "main.c"
+  ]
+}
