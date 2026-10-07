@@ -2,7 +2,7 @@
 > POSIX primitives, custom memory allocators, bit-manipulation, and high-performance kernel structures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/c-lowlevel-systems/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-20%20Modules-blue?style=for-the-badge&logo=c)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
+[![Total Modules](https://img.shields.io/badge/Algorithms-21%20Modules-blue?style=for-the-badge&logo=c)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -33,6 +33,7 @@
 | 18 | **Huffman Coding Lossless Compression and Decompression** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_180334_huffman_coding_lossless_compre/core.c) |
 | 19 | **Singular Value Decomposition (SVD) for Low-Rank Approximation** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_185052_singular_value_decomposition/engine.c) |
 | 20 | **Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_230802_janet_on_x32__32-bit_pointers/core.c) |
+| 21 | **Backend From First Principle** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_041004_backend_from_first_principle/core.c) |
 
 ---
 
@@ -61,4 +62,4 @@ gcc -std=c11 main.c -O2 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 23:08 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 04:10 UTC*</sub>
