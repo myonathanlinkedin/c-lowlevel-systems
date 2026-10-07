@@ -2,7 +2,7 @@
 > POSIX primitives, custom memory allocators, bit-manipulation, and high-performance kernel structures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/c-lowlevel-systems/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-23%20Modules-blue?style=for-the-badge&logo=c)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
+[![Total Modules](https://img.shields.io/badge/Algorithms-24%20Modules-blue?style=for-the-badge&logo=c)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -36,6 +36,7 @@
 | 21 | **HyperLogLog Cardinality Estimation Algorithm** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_094004_hyperloglog_cardinality_estima/engine.c) |
 | 22 | **Shipping JPEG XL in Chrome** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_121217_shipping_jpeg_xl_in_chrome/engine.c) |
 | 23 | **Baekjoon - (Baekjoon Online Judge)** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_134434_baekjoon_-__baekjoon_online_ju/engine.c) |
+| 24 | **Lock-Free Concurrent Ring Buffer Data Structure** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_220235_lock-free_concurrent_ring_buff/engine.c) |
 
 ---
 
@@ -64,4 +65,4 @@ gcc -std=c11 main.c -O2 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 14:04 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 22:02 UTC*</sub>
