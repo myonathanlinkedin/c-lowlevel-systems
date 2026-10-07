@@ -1,0 +1,14 @@
+{
+  "topic": "Almost Tight Bounds for Isomorphism Testing and Basis Construction in Finite Abelian",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-07T07:21:19.750681+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
