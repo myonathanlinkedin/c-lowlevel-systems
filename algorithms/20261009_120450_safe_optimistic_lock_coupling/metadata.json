@@ -1,0 +1,14 @@
+{
+  "topic": "Safe Optimistic Lock Coupling",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-09T12:04:50.093822+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
