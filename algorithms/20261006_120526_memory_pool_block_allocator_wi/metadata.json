@@ -1,0 +1,14 @@
+{
+  "topic": "Memory Pool Block Allocator with Free List",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-06T12:05:26.800370+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}

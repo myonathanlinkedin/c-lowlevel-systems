@@ -1,0 +1,13 @@
+{
+  "topic": "Singular Value Decomposition (SVD) for Low-Rank Approximation",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-06T18:50:52.478836+00:00",
+  "source_file": "types.h",
+  "files": [
+    "types.h",
+    "core.h",
+    "engine.c"
+  ]
+}
