@@ -1,0 +1,14 @@
+{
+  "topic": "Communication Between the Compiler, the Build System, and Beyond",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-10T05:06:48.547428+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
