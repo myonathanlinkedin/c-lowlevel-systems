@@ -2,7 +2,7 @@
 > POSIX primitives, custom memory allocators, bit-manipulation, and high-performance kernel structures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/c-lowlevel-systems/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-27%20Modules-blue?style=for-the-badge&logo=c)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
+[![Total Modules](https://img.shields.io/badge/Algorithms-28%20Modules-blue?style=for-the-badge&logo=c)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -40,6 +40,7 @@
 | 25 | **Runge-Kutta 4th Order Numerical ODE Integrator** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_080213_runge-kutta_4th_order_numerica/engine.c) |
 | 26 | **Materialize** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_101514_materialize/core.c) |
 | 27 | **A* Heuristic Pathfinding with Dynamic Obstacle Cost** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_104545_a__heuristic_pathfinding_with/core.c) |
+| 28 | **Valen s Memory Safety: A New Kind of Borrow Checking** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_130449_valen_s_memory_safety__a_new_k/core.c) |
 
 ---
 
@@ -68,4 +69,4 @@ gcc -std=c11 main.c -O2 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 10:45 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 13:05 UTC*</sub>
