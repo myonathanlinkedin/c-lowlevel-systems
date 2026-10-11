@@ -2,7 +2,7 @@
 > POSIX primitives, custom memory allocators, bit-manipulation, and high-performance kernel structures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/c-lowlevel-systems/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-26%20Modules-blue?style=for-the-badge&logo=c)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
+[![Total Modules](https://img.shields.io/badge/Algorithms-25%20Modules-blue?style=for-the-badge&logo=c)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -33,12 +33,11 @@
 | 18 | **Bytecode Virtual Machine with Stack Evaluation Engine** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_144334_bytecode_virtual_machine_with/core.c) |
 | 19 | **Huffman Coding Lossless Compression and Decompression** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_162352_huffman_coding_lossless_compre/core.c) |
 | 20 | **Communication Between the Compiler, the Build System, and Beyond** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_050648_communication_between_the_comp/core.c) |
-| 21 | **The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_120516_the_lightbulb_computer__reimag/engine.c) |
-| 22 | **Memory Pool Block Allocator with Free List** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_160203_memory_pool_block_allocator_wi/engine.c) |
-| 23 | **Huffman Coding Lossless Compression and Decompression** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_223712_huffman_coding_lossless_compre/core.c) |
-| 24 | **Lock-Free Concurrent Ring Buffer Data Structure** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_004014_lock-free_concurrent_ring_buff/core.c) |
-| 25 | **Memory Pool Block Allocator with Free List** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_010822_memory_pool_block_allocator_wi/engine.c) |
-| 26 | **Runge-Kutta 4th Order Numerical ODE Integrator** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_080213_runge-kutta_4th_order_numerica/engine.c) |
+| 21 | **Memory Pool Block Allocator with Free List** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_160203_memory_pool_block_allocator_wi/engine.c) |
+| 22 | **Huffman Coding Lossless Compression and Decompression** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_223712_huffman_coding_lossless_compre/core.c) |
+| 23 | **Lock-Free Concurrent Ring Buffer Data Structure** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_004014_lock-free_concurrent_ring_buff/core.c) |
+| 24 | **Memory Pool Block Allocator with Free List** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_010822_memory_pool_block_allocator_wi/engine.c) |
+| 25 | **Runge-Kutta 4th Order Numerical ODE Integrator** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_080213_runge-kutta_4th_order_numerica/engine.c) |
 
 ---
 
@@ -67,4 +66,4 @@ gcc -std=c11 main.c -O2 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 08:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 10:02 UTC*</sub>
