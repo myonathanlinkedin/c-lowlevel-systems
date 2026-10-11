@@ -1,0 +1,14 @@
+{
+  "topic": "Materialize",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-11T10:15:14.080353+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
