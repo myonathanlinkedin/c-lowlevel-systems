@@ -1,0 +1,8 @@
+{
+  "topic": "Copy-on-Write Vector Memory Buffer Management",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-05T07:00:31.082369+00:00",
+  "source_file": "main.c"
+}
