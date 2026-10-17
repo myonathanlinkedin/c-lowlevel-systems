@@ -1,0 +1,13 @@
+{
+  "topic": "Runge-Kutta 4th Order Numerical ODE Integrator",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-11T08:02:13.808126+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}

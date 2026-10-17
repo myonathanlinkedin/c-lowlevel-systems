@@ -1,0 +1,14 @@
+{
+  "topic": "Borrow-Checker Lifetime and Memory Safety Engine",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-11T13:07:39.555338+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "topic": "Lock-Free Concurrent Ring Buffer Data Structure",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-07T22:02:35.806512+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}

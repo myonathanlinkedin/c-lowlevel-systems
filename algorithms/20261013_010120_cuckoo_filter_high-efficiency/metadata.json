@@ -1,0 +1,13 @@
+{
+  "topic": "Cuckoo Filter High-Efficiency Deletion Structure",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-13T01:01:20.400531+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}
