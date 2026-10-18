@@ -1,0 +1,13 @@
+{
+  "topic": "LSM-Tree MemTable and SSTable Flush Compaction Engine",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-18T11:01:44.252493+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}
