@@ -1,0 +1,14 @@
+{
+  "topic": "The 7.3 kernel has been released",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-20T09:01:34.178430+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
