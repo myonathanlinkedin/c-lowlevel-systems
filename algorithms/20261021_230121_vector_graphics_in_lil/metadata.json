@@ -1,0 +1,13 @@
+{
+  "topic": "Vector Graphics in Lil",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-21T23:01:21.705687+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}
