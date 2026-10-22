@@ -1,0 +1,14 @@
+{
+  "topic": "High-Throughput Chronos-Buffer Ring Buffer Pattern",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-10-22T03:01:38.602359+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
