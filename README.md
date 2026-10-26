@@ -2,7 +2,7 @@
 > POSIX primitives, custom memory allocators, bit-manipulation, and high-performance kernel structures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/c-lowlevel-systems/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-42%20Modules-blue?style=for-the-badge&logo=c)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
+[![Total Modules](https://img.shields.io/badge/Algorithms-43%20Modules-blue?style=for-the-badge&logo=c)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/c-lowlevel-systems)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -63,6 +63,7 @@
 | 40 | **High-Throughput Chronos-Buffer Ring Buffer Pattern** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261022_030138_high-throughput_chronos-buffer/core.c) |
 | 41 | **Memory Pool Block Allocator with Free List** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261023_110136_memory_pool_block_allocator_wi/core.c) |
 | 42 | **SIMD and Go** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261025_010141_simd_and_go/core.c) |
+| 43 | **Singular Value Decomposition (SVD) for Low-Rank Approximation** | c | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261026_030218_singular_value_decomposition/engine.c) |
 
 ---
 
@@ -91,4 +92,4 @@ gcc -std=c11 main.c -O2 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-25 01:01 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-26 03:02 UTC*</sub>
