@@ -1,0 +1,14 @@
+{
+  "topic": "The Lamport Timestamp Trap: Ordered Numbers Aren t Causality",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-07T19:02:03.842792+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
