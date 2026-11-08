@@ -1,0 +1,13 @@
+{
+  "topic": "High-Throughput Aether-Cache Ring Buffer Pattern",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-08T05:02:00.107963+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}
