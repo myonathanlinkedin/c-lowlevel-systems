@@ -1,0 +1,13 @@
+{
+  "topic": "Greg Kurtzer s Ginux is now a userspace kernel",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-11T11:02:57.759694+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}
