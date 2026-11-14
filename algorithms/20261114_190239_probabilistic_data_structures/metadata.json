@@ -1,0 +1,13 @@
+{
+  "topic": "Probabilistic data structures in Aether-Graph",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-14T19:02:39.720124+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}
