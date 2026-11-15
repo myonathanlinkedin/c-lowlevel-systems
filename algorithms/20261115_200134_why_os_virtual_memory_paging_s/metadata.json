@@ -1,0 +1,14 @@
+{
+  "topic": "Why OS Virtual Memory Paging Saved LLM Inference: The ChronosPaging Breakthrough",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-15T20:01:34.278060+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
