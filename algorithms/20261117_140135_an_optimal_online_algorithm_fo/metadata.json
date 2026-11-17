@@ -1,0 +1,13 @@
+{
+  "topic": "An Optimal Online Algorithm for Single-machine Scheduling with Two Agents",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-17T14:01:35.651350+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}
