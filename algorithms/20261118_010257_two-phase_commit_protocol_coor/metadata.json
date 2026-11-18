@@ -1,0 +1,13 @@
+{
+  "topic": "Two-Phase Commit Protocol Coordinator and Participant State Machine",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-18T01:02:57.634542+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}
