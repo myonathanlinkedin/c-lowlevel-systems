@@ -1,0 +1,14 @@
+{
+  "topic": "Build Your Own Stack-Based Bytecode Virtual Machine in C",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-19T17:05:33.716251+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
