@@ -1,0 +1,14 @@
+{
+  "topic": "Efficient Classical Algorithms for Ground Energy Estimation of Fermions with",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-20T11:02:49.997253+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "engine.c",
+    "main.c"
+  ]
+}
