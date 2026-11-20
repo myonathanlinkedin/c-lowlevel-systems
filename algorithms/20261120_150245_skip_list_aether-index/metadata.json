@@ -1,0 +1,13 @@
+{
+  "topic": "Skip List Aether-Index",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-20T15:02:45.653959+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "engine.c",
+    "main.c"
+  ]
+}
