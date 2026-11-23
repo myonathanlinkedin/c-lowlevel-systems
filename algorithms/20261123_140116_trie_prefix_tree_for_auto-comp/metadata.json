@@ -1,0 +1,14 @@
+{
+  "topic": "Trie Prefix Tree for Auto-Completion with Frequency Ranking",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-23T14:01:16.774085+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "engine.c",
+    "main.c"
+  ]
+}
