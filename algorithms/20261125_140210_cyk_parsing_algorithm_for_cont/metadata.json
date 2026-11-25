@@ -1,0 +1,14 @@
+{
+  "topic": "CYK Parsing Algorithm for Context-Free Grammars",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-25T14:02:10.310311+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
