@@ -1,0 +1,14 @@
+{
+  "topic": "Improved Quantum Algorithms for TSP and More",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-26T03:02:35.056492+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
