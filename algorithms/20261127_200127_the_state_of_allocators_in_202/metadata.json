@@ -1,0 +1,14 @@
+{
+  "topic": "The State of Allocators in 2026 - Finally Stabilised",
+  "language": "C",
+  "extension": ".c",
+  "category": "c",
+  "timestamp_utc": "2026-11-27T20:01:27.301815+00:00",
+  "source_file": "main.c",
+  "files": [
+    "types.h",
+    "core.h",
+    "core.c",
+    "main.c"
+  ]
+}
